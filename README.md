@@ -2,6 +2,9 @@
 
 Header-only simple unit-testing library for C++.
 
+[![DOI](https://zenodo.org/badge/304688740.svg)](https://zenodo.org/badge/latestdoi/304688740)
+
+
 ## Usage
 
 Just include ```test.hpp``` in your app and use it like in ```main.cpp```:
